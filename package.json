@@ -1,0 +1,27 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Generate Team Profile by answering questions",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sg3606/TeamProfileGenerator.git"
+  },
+  "author": "sg3606",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sg3606/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/sg3606/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
