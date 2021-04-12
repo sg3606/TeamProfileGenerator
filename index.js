@@ -37,11 +37,11 @@ const select_role = [
       {
         type: 'checkbox',
         name: 'role',
-        message: 'Add a team member:',
+        message: 'Add a team member or Finish Building:',
         choices: [  
                     'Engineer', 
                     'Intern',
-                    'none'
+                    'Finish Building'
                 ]
       },
 ];

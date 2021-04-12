@@ -1,5 +1,6 @@
 function endhtml(data){
-    return `
+    return `        </div>
+        </div>
     </body>
     </html>`
 }
