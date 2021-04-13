@@ -7,7 +7,7 @@ function addingEngineer(data){
                             <h2>${ data.role }</h2>
                             <h3>Id: ${ data.id }</h3>
                             <h4>Email: <a href="mailto:${ data.email }">${ data.email }</a></h4>
-                            <h5>Github: <a href="https://github.com/${ data.github }">${ data.github }</a></h5>
+                            <h5>Github: <a href="https://github.com/${ data.github }" target="_blank">${ data.github }</a></h5>
                         </div>
                     </div>
                 </div>
